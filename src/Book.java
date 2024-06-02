@@ -1,5 +1,3 @@
-package com.example.bookmanager;
-
 import java.util.Objects;
 
 public class Book {
